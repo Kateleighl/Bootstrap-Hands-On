@@ -1,0 +1,7 @@
+@media (max-width: 576px) {
+    img {
+        display: flex;
+        width: 250px;
+        height: auto;
+    }
+}
